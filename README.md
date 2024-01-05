@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafiul007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafiul007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -9,9 +11,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47icwccm5evsqysjork4cj2li43ir0egatpd0zgp8t&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -55,6 +55,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="rafie007" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -70,5 +72,15 @@
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47j9p9z01purs9g4s0l61cuy0fykwpbi8ixrxyc8tg&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+
+###
+
+<img align="left" height="150" src="https://media1.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47713huzxv5pnb9whx8efev9r52ovhi64thmt6bxch&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e4761ft7703y6e4wyfv07tlf9ug77fjzm98771kaeo0&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
