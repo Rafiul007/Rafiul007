@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋!<br>  My name is M Rafiul Faisal.<br>Software Engineer / MERN-stack Developer</h2>
+<h2 align="left">Hi👋!<br>  My name is M Rafiul Faisal.<br>Software Engineer<br> MERN-stack Developer</h2>
 
 ###
 
